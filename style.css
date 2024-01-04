@@ -1,17 +1,10 @@
 .holder {
-  width: 300px ;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
-  margin: auto auto;
-  outline: solid black;
 }
 
 .item {
-  width: 100px;
-  height: auto;
   text-align: center;
-  
 }
 
 .item:nth-child(1) {
